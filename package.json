@@ -1,6 +1,6 @@
 {
   "name": "rename-me",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "get-joomla": "node joomla-tools.mjs -i",
     "link": "joomla-tools -l",
@@ -44,7 +44,7 @@
       "system": [
         {
           "name": "removecomments",
-          "version": "0.0.0"
+          "version": "0.0.2"
         }
       ],
       "task": [],

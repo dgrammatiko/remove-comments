@@ -15,7 +15,7 @@ final class Removecomments extends CMSPlugin
 {
   private static $files = [
     '/libraries/vendor/voku/portable-ascii/src/voku/helper/ASCII.php',
-    'www/libraries/vendor/voku/portable-utf8/src/voku/helper/UTF8.php',
+    '/libraries/vendor/voku/portable-utf8/src/voku/helper/UTF8.php',
   ];
 
   public static function getSubscribedEvents(): array {
